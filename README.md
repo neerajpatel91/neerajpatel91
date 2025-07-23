@@ -9,13 +9,13 @@ About Me
 🚀 Projects
 <p align="center"> <a href="https://github.com/sandeepgithubindia/AI-Powered-Agriculture-Assistance" target="_blank"> <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandeepgithubindia&repo=AI-Powered-Agriculture-Assistance&theme=tokyonight" alt="AI-Powered Agriculture Assistance" /> </a> <a href="https://github.com/sandeepgithubindia/LinkedIn-AI-Reply-Extension" target="_blank"> <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=LinkedIn-AI-Reply-Extension&theme=tokyonight" alt="LinkedIn AI Reply Extension" /> </a> </p>
 📈 GitHub Stats
-<p align="center"> <a href="https://github-readme-stats.vercel.app" target="_blank"> <img width="49%" alt="Sandeep's GitHub Stats" src="https://my-stats-lemon.vercel.app/api?username=sandeepgithubindia&show_icons=true&theme=tokyonight&hide_border=true"/> </a> <a href="https://github-readme-stats.vercel.app" target="_blank"> <img width="49%" alt="Top Languages" src="https://my-stats-lemon.vercel.app/api/top-langs/?username=sandeepgithubindia&layout=compact&theme=tokyonight&hide_border=true"/> </a> </p>
+<p align="center"> <a href="https://github-readme-stats.vercel.app" target="_blank"> <img width="49%" alt="Neearj's GitHub Stats" src="https://my-stats-lemon.vercel.app/api?username=sandeepgithubindia&show_icons=true&theme=tokyonight&hide_border=true"/> </a> <a href="https://github-readme-stats.vercel.app" target="_blank"> <img width="49%" alt="Top Languages" src="https://my-stats-lemon.vercel.app/api/top-langs/?username=sandeepgithubindia&layout=compact&theme=tokyonight&hide_border=true"/> </a> </p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sandeepgithubindia&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </p>
 🔥 Streak Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepgithubindia&theme=tokyonight&hide_border=true" alt="Streak Stats" /> </p>
 📚 Education
-<p align="center" style="font-size: 18px;"> 🎓 Bachelor of Technology in Information Technology at <a href="https://www.niet.co.in/" target="_blank">NIET</a> </p>
+<p align="center" style="font-size: 18px;"> 🎓 Bachelor of Technology in Computer Science and engineering at <a href="https://www.niet.co.in/" target="_blank">NIET</a> </p>
 💼 Work Experience
 <p align="center" style="font-size: 18px;"> 💻 React JS Developer at Celebal Technologies<br> 🌐 Frontend Developer Intern at Baskethunt Pvt Ltd </p>
 🎖 Achievements
