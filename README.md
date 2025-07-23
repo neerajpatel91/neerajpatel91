@@ -1,7 +1,7 @@
 Hi there, I'm Neeraj Patel! 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeepkumarpatel&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> </p>
 About Me
-<p align="center" style="font-size: 20px;"> 🎓 4th Year CSE Student at <a href="https://www.niet.co.in/" target="_blank">NIET, Greater Noida</a><br> 💻 Full-Stack Developer | MERN Stack | Java | Cloud Computing<br> 🚀 Passionate about Web Development, AI, and Open Source<br> 🌱 Currently exploring Angular and Deep Learning<br> 📫 Reach me at: <a href="mailto:hideeplan1525@gmail.com">hideeplan1525@gmail.com</a> </p>
+<p align="center" style="font-size: 20px;"> 🎓 4th Year CSE Student at <a href="https://www.niet.co.in/" target="_blank">NIET, Greater Noida</a><br> 💻 Full-Stack Developer | MERN Stack | Java | Cloud Computing<br> 🚀 Passionate about Web Development, AI, and Open Source<br> 🌱 Currently exploring Angular and Deep Learning<br> 📫 Reach me at: <a href="mailto:patelneeraj1245@gmail.com">Patelneeraj1245@gmail.com</a> </p>
 🔧 Technologies & Tools
 <p align="center">  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
